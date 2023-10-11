@@ -1,0 +1,12 @@
+a.txt
+b.txt
+c.txt
+d.txt
+e.txt
+f.txt
+g.txt
+Homework2_Fall2023.pdf
+h.txt
+shell
+shell.c
+words.txt
