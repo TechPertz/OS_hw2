@@ -15,3 +15,6 @@ README.md
 shell
 shell.c
 words.txt
+z.txt
+Reet
+Affan
